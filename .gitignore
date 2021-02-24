@@ -3,5 +3,5 @@
 
 
 *.netrWhist
-plugged
-undodir
+plugged/
+undodir/
